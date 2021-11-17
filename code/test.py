@@ -2,8 +2,6 @@
 
 import random
 
-#BAWAH NI UNTUK PAKEJ YANG KITA BARU NAK IMPORT
-
 from DNAtoolkit import *
 
 FILEPATH= "data\DNAcontoh.txt"
